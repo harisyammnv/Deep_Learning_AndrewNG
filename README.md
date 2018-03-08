@@ -17,7 +17,7 @@ from [Deep Learning Specilization from Coursera](https://www.coursera.org/specia
   - [Week 4 - PA1 - Building your Deep Neural Network: Step by Step](https://github.com/harisyammnv/Deep_Learning_AndrewNG/blob/master/Building%2Byour%2BDeep%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2Bv5.ipynb)
   - [Week 4 - PA2 - Deep Neural Network for Image Classification: Application](https://github.com/harisyammnv/Deep_Learning_AndrewNG/blob/master/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv3.ipynb)
 
-** Course Completion Certificate**
+**Course Completion Certificate**
 ![Certificate](https://github.com/harisyammnv/Deep_Learning_AndrewNG/blob/master/grad_deeplearning.PNG)
 
 - Course 2: Work In Progress
