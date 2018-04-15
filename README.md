@@ -20,4 +20,12 @@ from [Deep Learning Specilization from Coursera](https://www.coursera.org/specia
 **Course Completion Certificate**
 ![Certificate](https://github.com/harisyammnv/Deep_Learning_AndrewNG/blob/master/grad_deeplearning.PNG)
 
-- Course 2: Work In Progress
+- Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+
+  - [Week 1 - PA1 - Initializing a Deep Neural Network](https://github.com/harisyammnv/Deep_Learning_AndrewNG/blob/master/Initialization.ipynb)
+  - [Week 1 - PA2 - Gradient Checking Implementation with Central Differences](https://github.com/harisyammnv/Deep_Learning_AndrewNG/blob/master/Gradient%2BChecking%2Bv1.ipynb)
+  - [Week 2 - PA1 - Optimization and Regularization of the Deep Neural Network](https://github.com/harisyammnv/Deep_Learning_AndrewNG/blob/master/Regularization%2B-%2Bv2.ipynb)
+  - [Week 3 - PA1 - Hand Signs Recognition using TensorFlow](https://github.com/harisyammnv/Deep_Learning_AndrewNG/blob/master/Tensorflow%2BTutorial.ipynb)
+  
+ **Course Completion Certificate**
+![Certificate](https://github.com/harisyammnv/Deep_Learning_AndrewNG/blob/master/grad_deeplearning2.PNG)
