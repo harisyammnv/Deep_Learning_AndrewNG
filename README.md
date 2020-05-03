@@ -4,6 +4,10 @@
 
 Instructor: [Andrew Ng](http://www.andrewng.org/)
 
+
+## Final Course completion certificate
+![Final Certificate](https://github.com/harisyammnv/Deep_Learning_AndrewNG/blob/master/final_certificate.PNG)
+
 ## Introduction
 
 This repo contains my work for this specilization. All the starter codes, images and course notes, unless specified, are taken 
